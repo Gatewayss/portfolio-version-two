@@ -11,30 +11,35 @@ import Footer from './Footer';
 function App() {
   return (
     <Router>
-    <div className="App">
-      <Navbar />
-      <div className="content">
-        <Routes>
-          <Route exact path="/">
-            <Home />
-          </Route>
-          <Route path="/about">
-            <About />
-          </Route>
-          <Route path="/portfolio">
-            <Portfolio />
-          </Route>
-          <Route path="/contact">
-            <Contact />
-          </Route>
-          <Route path="/resume">
-            <Resume />
-          </Route>
+      <div className="App">
+        <Navbar />
+        <div className="content">
+          <Routes>
+            <Route
+              path="/"
+              element={<Home />}
+            />
+            <Route
+              path="/about"
+              element={<About />}
+            />
+            <Route
+              path="/portfolio"
+              element={<Portfolio />}
+            />
+            <Route
+              path="/contact"
+              element={<Contact />}
+            />
+            <Route
+              path="/resume"
+              element={<Resume />}
+            />
         </Routes>
         <Footer />
       </div>
     </div>
-  </Router>
+    </Router >
   );
 }
 
