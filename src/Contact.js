@@ -19,7 +19,7 @@ const Contact = () => {
           type="text"
           id="message"
           required /><br />
-        <button>Send!</button>
+        <button className="send-btn">Send!</button>
       </form>
     </div>
   );
