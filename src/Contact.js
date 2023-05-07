@@ -3,7 +3,6 @@ const Contact = () => {
   return (
     <div className="contact">
       <h2>Contact</h2>
-      <p>File </p>
       <form type="submit">
         <label>Name:</label><br />
         <input
