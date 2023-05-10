@@ -34,10 +34,10 @@ function App() {
               path="/resume"
               element={<Resume />}
             />
-        </Routes>
-        <Footer />
+          </Routes>
+          <Footer />
+        </div>
       </div>
-    </div>
     </Router >
   );
 }
