@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio-version-two/static/css/main.d94afa55.css",
+    "main.js": "/portfolio-version-two/static/js/main.407cb3f9.js",
+    "static/media/age-filter.gif": "/portfolio-version-two/static/media/age-filter.6395cffde2f2d2d663d6.gif",
+    "static/media/Gage's Quiz (1).gif": "/portfolio-version-two/static/media/Gage's Quiz (1).d22220ab113593954786.gif",
+    "static/media/Recipes for disaster.gif": "/portfolio-version-two/static/media/Recipes for disaster.b1d6e555932f6d27af20.gif",
+    "static/media/profile.jpg": "/portfolio-version-two/static/media/profile.07682bd52912cb5cca56.jpg",
+    "index.html": "/portfolio-version-two/index.html",
+    "main.d94afa55.css.map": "/portfolio-version-two/static/css/main.d94afa55.css.map",
+    "main.407cb3f9.js.map": "/portfolio-version-two/static/js/main.407cb3f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d94afa55.css",
+    "static/js/main.407cb3f9.js"
+  ]
+}
