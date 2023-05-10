@@ -146,6 +146,25 @@ input:focus, textarea:focus{
   padding-left: .5em;
 }
 
+/* portfolio styles  */
+
+.portfolio img {
+  width: 500px; 
+  justify-content: center;
+  padding: .5em;
+}
+
+.portfolio img:hover {
+  opacity: .5;
+  transition: .5s ease;
+  background-color: var(--pink);
+}
+
+.profile {
+  height: 300px;
+  padding: .5em;
+}
+
 @keyframes bounce {
   0%, 100% {
     transform: translateY(0);
