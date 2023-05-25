@@ -12,9 +12,9 @@ const Portfolio = () => {
             <img src={require("./assets/Gage's Quiz (1).gif")} alt="trans history quiz" />
           </a>
 
-          <h2>Recipes for disaster</h2>
-          <a href="https://gatewayss.github.io/recipes-for-disaster/">
-            <img src={require("./assets/Recipes for disaster.gif")} alt="Recipes for disaster tutorial" />
+          <h2>Mixer</h2>
+          <a href="https://paint-mixer.herokuapp.com/">
+            <img src={require("./assets/home.png")} alt="Mixer homepage" />
           </a>
         </div>
     );
